@@ -1,5 +1,6 @@
 ## Hi there 👋
-Xin chào! Tôi tên là Nguyễn Huy Hải
+Xin chào! Tôi tên là Nguyễn Huy Hải.
+<Lập trình viên Java/React/Python/C++>
 
 Hi! My name is Hai
 
